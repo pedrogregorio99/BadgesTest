@@ -7,3 +7,5 @@
 [![ Build Status](http://10.254.3.149:8080/buildStatus/icon?job=project-p)](http://10.254.3.149:8080/view/pluma-qa-projects/job/project-p/)
 
 <a href='http://10.254.3.149:8080/view/pluma-qa-projects/job/project-p/'><img src='http://10.254.3.149:8080/view/pluma-qa-projects/job/project-p/badge/icon'></a>
+
+http://10.254.3.149:8080/view/pluma-qa-projects/job/project-p/badge/icon
